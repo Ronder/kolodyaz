@@ -1,4 +1,4 @@
 <?php
 
-echo "hello!";
+echo "привет!";
 curl_open();
